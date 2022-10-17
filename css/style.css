@@ -1,0 +1,24 @@
+H1{
+    text-align: center;
+}
+
+#mcc_logo{
+    width: 200px;
+    height: 180px;
+}
+
+#kubota_logo{
+    width: 250px;
+    height: 100px;
+}
+
+#footer{
+ font-size: larger;
+ height: 500px;
+}
+
+#photo_slide{
+    width: 1280px;
+    height: 720px;
+}
+
